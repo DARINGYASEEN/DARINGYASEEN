@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @DARINGYASEEN
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-DARINGYASEEN/DARINGYASEEN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on any machine learning Algorithm.
+- 📫 You can Mail me at: yaseenqurashi13@gmail.com
+-  Kindly visit this : 
+-  Linktree: https://linktr.ee/DafringYaseen
+-  Google: https://www.google.com/search?q=daring+yaseen
+-  I'm also a Cyber Security Reseacher.
