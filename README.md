@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @DARINGYASEEN
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning on Data Science
-- 💞️ I’m looking to collaborate on any machine learning Algorithm.
-- 📫 You can Mail me at: yaseenqurashi13@gmail.com
--  Kindly visit this : 
--  Linktree: https://linktr.ee/DafringYaseen
--  Google: https://www.google.com/search?q=daring+yaseen
--  I'm also a Cyber Security Reseacher.
+
